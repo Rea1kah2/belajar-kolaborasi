@@ -7,3 +7,9 @@ def tambah(x, y):
 
 hasil_tambah = tambah(2, 10)
 print(hasil_tambah)
+
+def kurang(x, y):
+  return hasil = x - y
+
+hasil_kurang = kurang(5, 15)
+print(hasil_kurang)
